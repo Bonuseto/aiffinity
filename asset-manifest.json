@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aiffinity/static/css/main.2b6e0374.css",
+    "main.js": "/aiffinity/static/js/main.b11f4deb.js",
+    "static/js/453.801d3e0f.chunk.js": "/aiffinity/static/js/453.801d3e0f.chunk.js",
+    "index.html": "/aiffinity/index.html",
+    "main.2b6e0374.css.map": "/aiffinity/static/css/main.2b6e0374.css.map",
+    "main.b11f4deb.js.map": "/aiffinity/static/js/main.b11f4deb.js.map",
+    "453.801d3e0f.chunk.js.map": "/aiffinity/static/js/453.801d3e0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b6e0374.css",
+    "static/js/main.b11f4deb.js"
+  ]
+}
