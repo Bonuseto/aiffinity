@@ -15,11 +15,11 @@
 ### Mobile Views
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>Navigation Closed</h4>
       <img src="screenshots/mobile_nav_closed.png" alt="Mobile Navigation Closed" width="100%">
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>Navigation Opened</h4>
       <img src="screenshots/mobile_nav_opened.png" alt="Mobile Navigation Opened" width="100%">
     </td>
