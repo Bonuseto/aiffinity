@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import logo from '../assets/aiffinity-wordmark-dark.svg';
 
 const NavigationBar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -7,7 +8,7 @@ const NavigationBar = () => {
     <nav className="bg-white px-4 py-2">
       <div className="flex items-center justify-between">
         <div className="flex items-center space-x-2">
-          <img src="/aiffinity-wordmark-dark.svg" alt="AIffinity Logo" className="h-8" />
+          <img src={logo} alt="AIffinity Logo" className="h-8" />
         </div>
         
         {/* Desktop Navigation */}
