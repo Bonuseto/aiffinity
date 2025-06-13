@@ -12,12 +12,19 @@
 ### Tablet View
 ![Tablet Dashboard](screenshots/tablet.png)
 
-### Mobile View with Navigation Closed
-![Mobile Navigation](screenshots/mobile_nav_closed.png)
-
-### Mobile View with Navigation Opened
-![Mobile Navigation](screenshots/mobile_nav_opened.png)
-
+### Mobile Views
+<table>
+  <tr>
+    <td width="50%">
+      <h4>Navigation Closed</h4>
+      <img src="screenshots/mobile_nav_closed.png" alt="Mobile Navigation Closed" width="100%">
+    </td>
+    <td width="50%">
+      <h4>Navigation Opened</h4>
+      <img src="screenshots/mobile_nav_opened.png" alt="Mobile Navigation Opened" width="100%">
+    </td>
+  </tr>
+</table>
 
 Before you begin, ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (version 16 or higher)
